@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# Email Signature App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+From this project you can create email signature for your email. We can use different template for your email signature. After creating email signature we can download whole template design in .html file and use that as our email signature. In template you can add following items mention in below table.
 
-## Available Scripts
+At Present this project only have one template, you can contribute to this project by adding more templates. Still I'm figuring out how to create a download button to convert whole template design in .html file.
+
+## Description
 
 In the project directory, you can run:
 
