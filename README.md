@@ -4,7 +4,9 @@ From this project you can create email signature for your email. We can use diff
 
 At Present this project only have one template, you can contribute to this project by adding more templates. Still I'm figuring out how to create a download button to convert whole template design in .html file.
 
-## Description
+## Install Project
+
+
 
 In the project directory, you can run:
 
